@@ -9,14 +9,11 @@
   color: #996df9
 }
 
-#app > img {
-  width: 64px;
-}
 
 #app > h2 {
   color: #fff;
   align-self: flex-start;
-  margin-top: 104px;
+  margin-top: 64px;
 
 }
 
@@ -24,6 +21,8 @@
   align-self: flex-start;
   text-align: justify;
   width: 512px;
+  margin-top: -5px;
+  
 }
 
 #app .placeholder {
