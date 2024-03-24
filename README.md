@@ -134,7 +134,6 @@ Esse projeto está sob a licença [MIT](LICENSE).
 
 ## 📫 Contato
 
-by [**Lucas Mendes**](https://www.linkedin.com/in/lucas-mendes-16283961/) 🚀
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
